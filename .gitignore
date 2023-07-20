@@ -5,4 +5,4 @@
 /node_modules
 
 # macosが作成するキャッシュファイルが追跡されないように設定
-.DS_Store
+.DS_Storegi
